@@ -31,7 +31,6 @@ public class Proveedor {
 	private String razonsocial;
 	private String ruc;
 	private String direccion;
-	private String telefono;
 	private String celular;
 	private String contacto;
 	private int estado;
